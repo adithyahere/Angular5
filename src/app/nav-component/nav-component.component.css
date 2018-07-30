@@ -1,0 +1,9 @@
+.top-bar {
+    background-color: black;
+    line-height: 39px;
+    min-height: 55px;
+}
+
+div {
+    display: block;
+}
